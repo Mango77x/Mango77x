@@ -9,4 +9,4 @@ Building personal projects focused on defense/aerospace and critical systems.
 🔗 [LinkedIn](https://linkedin.com/in/antoine-giz-paulino)
 
 ---
-🇪🇸 Desarrollador fullstack en Innopulse, construyendo proyectos personales orientados a defensa/aeroespacial.
+Desarrollador fullstack en Innopulse, construyendo proyectos personales orientados a defensa/aeroespacial.
