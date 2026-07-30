@@ -1,14 +1,16 @@
-### Antoine Giz — Fullstack Developer
+### Antoine Giz — Full-Stack Developer
 
-Java · Spring Boot · React · Ruby on Rails
+Java · Spring Boot · C# · C++ · React · TypeScript · PostgreSQL
 
 Currently at Innopulse building government management software.
-Building personal projects focused on defense/aerospace and critical systems.
 
-🔭 Currently building: [Creatures](https://github.com/Mango77x/Creatures)!  A from-scratch C++/OpenGL lab for generating, animating, and simulating procedural creatures.
+Building personal projects focused on procedural generation, simulation and high-performance software for logistics amd C2 applications.
+
+🔭 Currently building: [Creatures](https://github.com/Mango77x/Creatures)  A from-scratch C++/OpenGL lab for generating, animating, and simulating procedural creatures.
 
 📖 [My Page](https://mango77x.github.io/)
 🔗 [LinkedIn](https://linkedin.com/in/antoine-giz-paulino)
 
----
-Desarrollador fullstack en Innopulse, construyendo proyectos personales orientados a defensa/aeroespacial.
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mango77x&layout=compact&theme=github_dark&bg_color=0d1117" alt="Top Languages" />
+</p>
