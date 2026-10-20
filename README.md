@@ -4,9 +4,9 @@ Java · Spring Boot · C# · C++ · React · TypeScript · PostgreSQL
 
 Currently at Innopulse building government management software.
 
-Building personal projects focused on procedural generation, simulation and high-performance software for logistics amd C2 applications.
+Building personal projects focused on procedural generation, videogames, simulation and high-performance software for logistics and C2 applications.
 
-🔭 Currently building: [Creatures](https://github.com/Mango77x/Creatures)  A from-scratch C++/OpenGL lab for generating, animating, and simulating procedural creatures.
+🔭 Currently building: [MHForever](https://github.com/Mango77x/MHForever)  A Monster Hunter recompilation project, from a fan to the fans!.
 
 📖 [My Page](https://mango77x.github.io/)
 🔗 [LinkedIn](https://linkedin.com/in/antoine-giz-paulino)
